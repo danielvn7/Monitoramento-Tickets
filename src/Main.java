@@ -15,7 +15,7 @@ void main() {
     System.out.println("Idade calculada: " + idadeCalculada + " anos");
 
     // Definimos a quantidade inicial de chamados (tickets) para a nossa automação.
-    int ticketsAbertos = 5;
+    int ticketsAbertos = 8;
 
     System.out.println("=== SISTEMA DE MONITORAMENTO CHAMADOS ===");
 
@@ -28,12 +28,15 @@ void main() {
 
         // Thread.sleep faz o programa "dormir" por 1000 milissegundos (1 segundo).
         // O 'try/catch' em volta é uma regra do Java para evitar que o programa trave caso ocorra um erro na pausa.
-        try { Thread.sleep(1000); } catch (Exception e) {}
-    }
+        try {
+            Thread.sleep(1000);
+        } catch (Exception ignore) {
+            // Aqui não fazemos nada se o sono for interrompido
+        }
 
     System.out.println("========================================");
 
     // LocalTime.now() chama uma função interna do Java que pega o horário exato do sistema.
     System.out.println("TUDO LIMPO! Fila zerada às " + java.time.LocalTime.now());
-}
+}}
 
