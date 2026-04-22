@@ -1,0 +1,22 @@
+ID,DESCRIÇÃO,PRIORIDADE,SOLICITANTE
+105,Atualizar ServiceNow,Baixa,Suporte
+201,Lentidão no ERP Datasul,Alta,Logística
+202,Reset de senha Windows,Baixa,RH
+203,Teclado parou de funcionar,Baixa,Faturamento
+204,Instalação de impressora térmica,Média,Expedição
+205,Configuração de coletor de dados,Alta,Depósito
+206,Erro de permissão na pasta da rede,Média,Comercial
+207,Notebook não liga,Alta,Diretoria
+208,Instalação de pacote Office,Baixa,Compras
+209,Monitor piscando (mau contato),Média,Engenharia
+210,Falha na VPN (Home Office),Alta,TI Interno
+211,Solicitação de novo headset,Baixa,Atendimento
+212,Erro ao gerar nota fiscal,Crítica,Faturamento
+213,Mouse sem fio sem pilha,Baixa,Recepção
+214,Configuração de e-mail no Outlook,Média,Marketing
+215,Limpeza preventiva de Desktop,Baixa,Produção
+216,Cabo de rede desconectado,Média,Qualidade
+217,Bug na integração ServiceNow,Alta,TI
+218,Pedido de acesso ao grupo do Teams,Baixa,Projetos
+219,Atualização de driver de vídeo,Média,Design
+220,Webcam não reconhecida,Baixa,Treinamento
