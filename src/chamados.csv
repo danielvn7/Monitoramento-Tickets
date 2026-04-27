@@ -19,4 +19,7 @@ ID,DESCRIÇÃO,PRIORIDADE,SOLICITANTE
 217,Bug na integração ServiceNow,Alta,TI
 218,Pedido de acesso ao grupo do Teams,Baixa,Projetos
 219,Atualização de driver de vídeo,Média,Design
-220,Webcam não reconhecida,Baixa,Treinamento
+220,Webcam não reconhecida,Baixa,TreinamentoM27,
+1,Troca de monitor,Alta,RH
+2,Troca de Mouse,Alta,RH
+
